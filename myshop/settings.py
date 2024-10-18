@@ -133,3 +133,15 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 CART_SESSION_ID = 'cart'
+
+# EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'fatemehsoleymani770@gmail.com'
+EMAIL_HOST_PASSWORD = 'womw nnvq egzy vvem'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+
+
+CELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True
