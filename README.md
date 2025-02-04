@@ -21,4 +21,17 @@ Asynchronous tasks: Celery + RabbitMQ
 Internationalization: django-parler, django-localflavor
 
 ## 📸 Screenshots
-### 🔹 Dashboard View
+### 🔹 Product List View
+[Product List] (https://github.com/fatemehsoleymani/OnlineShop/blob/master/screenshots/Screenshot%20(23).png)
+### 🔹 Product Detail View
+[Product Detail] (https://github.com/fatemehsoleymani/OnlineShop/blob/master/screenshots/Screenshot%20(24).png)
+### 🔹 Shopping Cart View
+[Shopping Cart] (https://github.com/fatemehsoleymani/OnlineShop/blob/master/screenshots/Screenshot%20(25).png)
+### 🔹 Order Summary View
+[Order Summary] (https://github.com/fatemehsoleymani/OnlineShop/blob/master/screenshots/Screenshot%20(27).png)
+### 🔹 Payment Cart View
+[Payment Cart] (https://github.com/fatemehsoleymani/OnlineShop/blob/master/screenshots/Screenshot%20(28).png)
+### 🔹 Payment Cart View
+
+
+
